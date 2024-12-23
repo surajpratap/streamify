@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page renders homepage unchanged 1`] = `
+<div>
+  <div>
+    <h1
+      class="text-3xl font-semibold text-white"
+    >
+      Dashboard
+    </h1>
+    <div
+      class="grid lg:grid-cols-4 md:grid-cols-3 gap-4 mt-4"
+    >
+      <div
+        class="flex rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 flex-col max-w-sm dark:bg-gray-900"
+        data-testid="flowbite-card"
+      >
+        <div
+          class="flex h-full flex-col justify-center gap-4 p-6"
+        >
+          <h5
+            class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+          >
+            Total Users
+          </h5>
+          <p
+            class="font-normal text-gray-700 dark:text-gray-400"
+          >
+            98976
+          </p>
+        </div>
+      </div>
+      <div
+        class="flex rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 flex-col max-w-sm dark:bg-gray-900"
+        data-testid="flowbite-card"
+      >
+        <div
+          class="flex h-full flex-col justify-center gap-4 p-6"
+        >
+          <h5
+            class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+          >
+            Active Users
+          </h5>
+          <p
+            class="font-normal text-gray-700 dark:text-gray-400"
+          >
+            9090
+          </p>
+        </div>
+      </div>
+      <div
+        class="flex rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 flex-col max-w-sm dark:bg-gray-900"
+        data-testid="flowbite-card"
+      >
+        <div
+          class="flex h-full flex-col justify-center gap-4 p-6"
+        >
+          <h5
+            class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+          >
+            Total Streams
+          </h5>
+          <p
+            class="font-normal text-gray-700 dark:text-gray-400"
+          >
+            989
+          </p>
+        </div>
+      </div>
+      <div
+        class="flex rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 flex-col max-w-sm dark:bg-gray-900"
+        data-testid="flowbite-card"
+      >
+        <div
+          class="flex h-full flex-col justify-center gap-4 p-6"
+        >
+          <h5
+            class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+          >
+            Revenue
+          </h5>
+          <p
+            class="font-normal text-gray-700 dark:text-gray-400"
+          >
+            $ 987,010
+          </p>
+        </div>
+      </div>
+      <div
+        class="flex rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 flex-col max-w-sm dark:bg-gray-900"
+        data-testid="flowbite-card"
+      >
+        <div
+          class="flex h-full flex-col justify-center gap-4 p-6"
+        >
+          <h5
+            class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+          >
+            Top Artist
+          </h5>
+          <p
+            class="font-normal text-gray-700 dark:text-gray-400"
+          >
+            Jay Z
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
