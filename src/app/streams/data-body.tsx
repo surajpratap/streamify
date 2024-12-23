@@ -4,7 +4,7 @@ import Loading from "@/app/streams/loading";
 import {TableCell, TableRow} from "flowbite-react";
 
 export default async function DataBody() {
-  const streams = await getStreamsData();
+  const streams = await getStreamsData({});
 
   return (
     <Suspense fallback={<Loading />}>
