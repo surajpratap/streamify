@@ -8,6 +8,11 @@
 - `npm run build`
 - `npm start`
 
+# Deployment
+
+- `https://streamify-ten-drab.vercel.app/reports`
+- Deploys at vercel after each push
+
 # Run tests
 
 - `npm test`
